@@ -32,15 +32,15 @@ To mine the frequent item sets and devise association rules from Kaggle’s Inst
 ## Findings
 ___
 
-### Instacart Shoppers love Bananas and Organic Food!
+> ### Instacart Shoppers love Bananas and Organic Food!
 
 ![Products](Images/products.png)![Relative Frequency](Images/Product_relative_freq.png)
 
-### Instacart's Frequently Bought Item Sets
+> ### Instacart's Frequently Bought Item Sets
 
 ![Product Association Rules](Images/product_rules.png)
 
-### Heatmaps of top 10 Product Rules
+> ### Heatmaps of top 10 Product Rules
 
 ![Product Lift](Images/product_support.png)
 ![Product Lift](Images/product_lift.png)
