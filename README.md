@@ -51,9 +51,18 @@ ___
 
 > ### Heatmaps of top 10 Product Rules
 
-![Product Lift](Images/product_support.png)
-![Product Lift](Images/product_lift.png)
-![Product Lift](Images/product_confidence.png)
+<table>
+  <tr>
+    <td>Product Support</td>
+    <td>Product Lift</td>
+    <td>Product Confidence</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="Images/product_support.png"></td>
+    <td valign="top"><img src="Images/product_lift.png"></td>
+    <td valign="top"><img src="Images/product_confidence.png"></td>
+  </tr>
+ </table>
 
 ## Predictions
 ---
