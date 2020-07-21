@@ -1,6 +1,6 @@
 # Instacart Shopper 
 
-> Which are Instacart's most frequntly bought item sets?
+> ### Which are Instacart's most frequntly bought item sets?
 
 ![InstacartShopper](Images/InstacartShopper.png)
 
@@ -32,15 +32,15 @@ To mine the frequent item sets and devise association rules from Kaggle’s Inst
 ## Findings
 ___
 
-Instacart Shoppers love Bananas and Organic Food!
+### Instacart Shoppers love Bananas and Organic Food!
 
-![Products](Images/Products.png)![Relative Frequency](Images/Product_relative_freq.png)
+![Products](Images/products.png)![Relative Frequency](Images/Product_relative_freq.png)
 
-Instacart's Frequently Bought Item Sets
+### Instacart's Frequently Bought Item Sets
 
 ![Product Association Rules](Images/product_rules.png)
 
-Heatmaps of top 10 Product Rules
+### Heatmaps of top 10 Product Rules
 
 ![Product Lift](Images/product_support.png)
 ![Product Lift](Images/product_lift.png)
@@ -49,6 +49,8 @@ Heatmaps of top 10 Product Rules
 ## Predictions
 ---
 
-> Are you forgetting something?
+> ### Are you forgetting something?
 ![Information Hub](Images/Information_Hub.png)
+
+> ### Select your Item
 ![Select Your Item](Images/select_your_item.png)
