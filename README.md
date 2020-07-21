@@ -34,7 +34,16 @@ ___
 
 > ### Instacart Shoppers love Bananas and Organic Food!
 
-![Products](Images/products.png)![Relative Frequency](Images/Product_relative_freq.png)
+<table>
+  <tr>
+    <td>Product Frequency</td>
+     <td>Relative Frequency</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="Images/products.png"></td>
+    <td valign="top"><img src="Images/Product_relative_freq.png"></td>
+  </tr>
+ </table>
 
 > ### Instacart's Frequently Bought Item Sets
 
