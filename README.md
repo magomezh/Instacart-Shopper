@@ -9,6 +9,8 @@ ___
 
 The aim of the project was to use machine learning to learn of Instacart’s customers preferences by analyzing the most frequently bought item sets.
 
+To mine the frequent item sets and devise association rules from Kaggle’s Instacart dataset, we decided to use a machine learning algorithm called apriori (used Python mlxtend library to import apriori, and association rules).
+
 ## Tools Used
 ---
 
@@ -23,11 +25,6 @@ Web - HTML, CSS, Flask, JavaScript, Heroku
 ## Data Source
 ---
 We used Kaggle.com -- Instacart’s 2017 Online Grocery Shopping Dataset for our analysis: [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis/data)
-
-
-## Scope
----
-To mine the frequent item sets and devise association rules from Kaggle’s Instacart dataset, we decided to use a machine learning algorithm called apriori (used Python mlxtend library to import apriori, and association rules).
 
 ## Findings
 ___
