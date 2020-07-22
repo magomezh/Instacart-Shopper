@@ -42,11 +42,17 @@ ___
   </tr>
  </table>
 
-> ### Instacart's Frequently Bought Item Sets
+> ### Graph of Top Rules (group of items frequently bought together) 
+
+Once we feed our model with a relative frequency rate, and provide it with the basket transaction data. It creates for us rules (or the combination of item sets) that have a higher value of support/frequency than the minimum threshold we provided. 
 
 ![Product Association Rules](Images/product_rules.png)
 
 > ### Heatmaps of top 10 Product Rules
+
+We further filter the rules or combination set of items by choosing those with higher confidence levels and ordering the rules by their higher (descending) lift value. 
+
+The following heatmaps help us evaluate the results of our model. It tells us the level of confidence and support values present in each combination set or rule.
 
 <table>
   <tr>
