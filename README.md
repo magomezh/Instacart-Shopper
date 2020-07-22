@@ -70,6 +70,18 @@ The following heatmaps help us evaluate the results of our model. It tells us th
 ## Predictions
 ---
 
+<table>
+  <tr>
+    <td>Are you forgetting something?</td>
+    <td>Select your Item</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="Images/Information_Hub.png"></td>
+    <td valign="top"><img src="Images/select_your_item.png"></td>
+  </tr>
+ </table>
+
+
 > ### Are you forgetting something?
 ![Information Hub](Images/Information_Hub.png)
 
