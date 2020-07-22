@@ -2,7 +2,7 @@
 
 > ### What are Instacart's most frequntly bought item sets?
 
-![InstacartShopper](Images/InstacartShopper.png)
+![InstacartShopper](Images/Instacart_Shopper.png)
 
 ## Purpose
 ___
