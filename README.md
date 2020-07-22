@@ -69,6 +69,8 @@ The following heatmaps help us evaluate the results of our model. It tells us th
 
 ## Predictions
 ---
+Page to display combination of item sets. 
+For example, if customers buy cilantro they are likely to buy limes as well. 
 
 <table>
   <tr>
@@ -80,6 +82,7 @@ The following heatmaps help us evaluate the results of our model. It tells us th
     <td valign="top"><img src="Images/select_your_item.png"></td>
   </tr>
  </table>
+
 
 
 > ### Are you forgetting something?
