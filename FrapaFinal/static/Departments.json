@@ -1,0 +1,86 @@
+[
+ {
+   "Antecedents": " Bakery', 'Dairy Eggs  ",
+   "Consequents": " Produce', 'Snacks  "
+ },
+ {
+   "Antecedents": " Beverages', 'Dairy Eggs', 'Frozen  ",
+   "Consequents": " Produce', 'Snacks  "
+ },
+ {
+   "Antecedents": " Beverages', 'Frozen  ",
+   "Consequents": " Dairy Eggs', 'Snacks  "
+ },
+ {
+   "Antecedents": " Beverages', 'Frozen  ",
+   "Consequents": " Produce', 'Snacks  "
+ },
+ {
+   "Antecedents": " Beverages', 'Produce', 'Dairy Eggs', 'Snacks  ",
+   "Consequents": " Frozen  "
+ },
+ {
+   "Antecedents": " Beverages', 'Produce', 'Frozen  ",
+   "Consequents": " Dairy Eggs', 'Snacks  "
+ },
+ {
+   "Antecedents": " Canned Goods', 'Dairy Eggs  ",
+   "Consequents": " Produce', 'Pantry  "
+ },
+ {
+   "Antecedents": " Canned Goods', 'Dairy Eggs  ",
+   "Consequents": " Produce', 'Frozen  "
+ },
+ {
+   "Antecedents": " Canned Goods', 'Dairy Eggs  ",
+   "Consequents": " Pantry  "
+ },
+ {
+   "Antecedents": " Canned Goods', 'Produce  ",
+   "Consequents": " Pantry  "
+ },
+ {
+   "Antecedents": " Canned Goods', 'Produce', 'Dairy Eggs  ",
+   "Consequents": " Pantry  "
+ },
+ {
+   "Antecedents": " Dairy Eggs', 'Snacks', 'Frozen  ",
+   "Consequents": " Beverages', 'Produce  "
+ },
+ {
+   "Antecedents": " Deli', 'Dairy Eggs  ",
+   "Consequents": " Produce', 'Snacks  "
+ },
+ {
+   "Antecedents": " Deli', 'Dairy Eggs  ",
+   "Consequents": " Produce', 'Frozen  "
+ },
+ {
+   "Antecedents": " Deli', 'Produce  ",
+   "Consequents": " Dairy Eggs', 'Snacks  "
+ },
+ {
+   "Antecedents": " Pantry', 'Dairy Eggs', 'Snacks  ",
+   "Consequents": " Frozen  "
+ },
+ {
+   "Antecedents": " Pantry', 'Frozen  ",
+   "Consequents": " Dairy Eggs', 'Snacks  "
+ },
+ {
+   "Antecedents": " Pantry', 'Frozen  ",
+   "Consequents": " Produce', 'Snacks  "
+ },
+ {
+   "Antecedents": " Produce', 'Bakery  ",
+   "Consequents": " Dairy Eggs', 'Snacks  "
+ },
+ {
+   "Antecedents": " Produce', 'Snacks', 'Frozen  ",
+   "Consequents": " Beverages', 'Dairy Eggs  "
+ },
+ {
+   "Antecedents": " Snacks', 'Frozen  ",
+   "Consequents": " Beverages', 'Dairy Eggs  "
+ }
+]
